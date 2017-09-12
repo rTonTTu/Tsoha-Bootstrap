@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+  <h1>Ylioppilaskunnan Laulajien tulevat konsertit</h1>
+
+  <p>
+    <a href="#" class="btn btn-success">Lisää peli</a>
+  </p>
+
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Nimi</th>
+        <th>Päivämäärä</th>
+        <th>Sijainti</th>
+        <th>Status</th>
+        <th>Lisäyspäivä</th>
+        <th></th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <!-- Listataan pelit tähän -->
+      <tr>
+        <td><a href="#">Joharin tripla</a></td>
+        <td>16.12.2017</td>
+        <td>Johanneksen Kirkko</td>
+        <td><label class="label label-danger">Tulossa</label></td>
+        <td>12.09.2016</td>
+        <th><a class="btn btn-default btn-sm" href="#">Muokkaa</a></th>
+      </tr>
+    </tbody>
+  </table>
+{% endblock %}
