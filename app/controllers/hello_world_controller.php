@@ -11,4 +11,8 @@
       // Testaa koodiasi täällä
       View::make('helloworld.html');
     }
+
+    public static function concerts() {
+      View::make('concert_list.html');
+    }
   }
