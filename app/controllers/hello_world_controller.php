@@ -12,8 +12,12 @@
       View::make('helloworld.html');
     }
 
-    public static function concerts() {
+    public static function concerts_list() {
       View::make('concert_list.html');
+    }
+
+    public static function concerts_show() {
+      View::make('concert_show.html');
     }
 
     public static function login() {
