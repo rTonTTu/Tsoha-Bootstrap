@@ -11,3 +11,9 @@
   $routes->get('/konsertit', function() {
   	HelloWorldController::concerts();
   });
+
+  $routes->get('/login', function() {
+  	HelloWorldController::login();
+  });
+
+
