@@ -4,8 +4,8 @@ Yleisiä linkkejä:
 
 * [Linkki sovellukseeni](https://thomasto.users.cs.helsinki.fi/YL)
 * [Linkki dokumentaatiooni](https://github.com/rTonTTu/YL-Lipunvaraus-Tsoha-S2017-/blob/master/doc/dokumentaatio.pdf)
-* [Linkki konserttilistaan](https://thomasto.users.cs.helsinki.fi/konsertit)
-* [Linkki kirjautumiseen](https://thomasto.users.cs.helsinki.fi/login)
+* [Linkki konserttilistaan](https://thomasto.users.cs.helsinki.fi/YL/konsertit)
+* [Linkki kirjautumiseen](https://thomasto.users.cs.helsinki.fi/YL/login)
 
 ## Työn aihe: Lipunvarausjärjestelmä YL:lle
 
