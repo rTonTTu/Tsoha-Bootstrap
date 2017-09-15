@@ -1,4 +1,4 @@
-# Tietokantasovelluksen esittelysivu
+# Ylioppilaskunnan Laulajien lipunvarausjäjrestelmä (Tietokantasovellus -harjoitustyö 2017)
 
 Yleisiä linkkejä:
 
